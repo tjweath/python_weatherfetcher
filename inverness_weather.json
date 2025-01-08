@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -4.2257,
+        "lat": 57.479
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 0.62,
+        "feels_like": -1.81,
+        "temp_min": -0.05,
+        "temp_max": 1.02,
+        "pressure": 1001,
+        "humidity": 87,
+        "sea_level": 1001,
+        "grnd_level": 981
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 240
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1736343992,
+    "sys": {
+        "type": 2,
+        "id": 2002901,
+        "country": "GB",
+        "sunrise": 1736326451,
+        "sunset": 1736351560
+    },
+    "timezone": 0,
+    "id": 2646088,
+    "name": "Inverness",
+    "cod": 200
+}
