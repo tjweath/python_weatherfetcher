@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "4889a9e653151251b89c13769ed20d29"
+API_KEY = 
 
 def get_coordinates(city_name):
     """
